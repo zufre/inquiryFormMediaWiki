@@ -1,0 +1,14 @@
+<nomobile>
+<div style=" height: 1650px; overflow-y:hidden">
+<html>
+<iframe style="margin: 0 calc((100% - 333px)/2)!important; width:333px !important; min-height:1700px; overflow:hidden" src="https://thingstodoinbali.zohorecruit.com/recruit/WebFormServeServlet?rid=09671203b1250981eb21cc5a02dda82484c235a6a47ba410acbff5d9a9d89a54gidbd52d3cbebab521f2df1c50dd19fd272edf315d1597d3ecd42ae06c6a0bdd5cb"  height=1700 frameborder=0></iframe>
+</html>
+</div>
+</nomobile>
+
+<mobileonly>
+<html>
+<iframe src="https://thingstodoinbali.zohorecruit.com/recruit/WebFormServeServlet?rid=09671203b1250981eb21cc5a02dda82484c235a6a47ba410acbff5d9a9d89a54gidbd52d3cbebab521f2df1c50dd19fd272edf315d1597d3ecd42ae06c6a0bdd5cb" width=100% height=1700 frameborder=0>
+</iframe>
+</html>
+</mobileonly>
